@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [Mobile Boilerplate](http://mobileboilerplate.com/)
 
 Mobile Boilerplate is a professional front-end template that helps you build
@@ -59,3 +60,7 @@ Anyone and everyone is welcome to [contribute](/h5bp/mobile-boilerplate/blob/mas
 mobile_app
 ==========
 >>>>>>> 78f812ca441c8d26c19b7608699ad2c3367887e1
+=======
+mobile_app
+==========
+>>>>>>> 1291a78ceac9b9415d8de925fa2fdfa04d1a184b
