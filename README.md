@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Mobile Boilerplate](http://mobileboilerplate.com/)
 
 Mobile Boilerplate is a professional front-end template that helps you build
@@ -54,3 +55,7 @@ want to write about your project.
 ## Contributing
 
 Anyone and everyone is welcome to [contribute](/h5bp/mobile-boilerplate/blob/master/doc/contribute.md).
+=======
+mobile_app
+==========
+>>>>>>> 78f812ca441c8d26c19b7608699ad2c3367887e1
